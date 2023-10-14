@@ -1,4 +1,6 @@
+#! /usr/bin/env node
 //const inquirer = require('inquirer');
+
 import inquirer from "inquirer";   // for Runtime input ES6
 const min = 1; // range of computer genrate Number (min=1 - max=50)
 const max = 50;
